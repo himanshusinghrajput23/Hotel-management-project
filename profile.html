@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="styles.css" />
+  <title>Profile | Rayal Park</title>
+</head>
+<body>
+  <section class="section__container profile__container">
+  <h2 class="section__header">My Profile</h2>
+  <div class="profile__card">
+    <div class="profile__avatar">
+      <img src="images/avatar.jpg" alt="Avatar" id="profile-avatar" />
+    </div>
+    <form id="profile-form" class="profile__form">
+      <div class="input__group">
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Name" />
+      </div>
+      <div class="input__group">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="Email" />
+      </div>
+      <div class="input__group input__btn">
+        <button class="btn" type="submit">Update</button>
+        <button class="btn" type="button" id="delete-btn">Delete Account</button>
+      </div>
+    </form>
+    <p id="profile-msg"></p>
+  </div>
+</section>
+
+  <script src="profile.js"></script>
+</body>
+</html>

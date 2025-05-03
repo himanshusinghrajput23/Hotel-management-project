@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>Room Details | Rayal Park</title>
+</head>
+<body>
+  <nav>
+    <div class="nav__bar">
+      <div class="logo">
+        <a href="index.html"><img src="images/logo.png" alt="logo" /></a>
+      </div>
+      <ul class="nav__links" id="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="dashboard.html">Dashboard</a></li>
+      </ul>
+      <div id="profile-dropdown" class="profile-dropdown" style="display:none;">
+        <span id="profile-name"></span>
+        <button id="logout-btn">Logout</button>
+      </div>
+    </div>
+  </nav>
+  <main class="room-details-container">
+    <section id="room-info"></section>
+    <section id="reviews-section">
+      <h2>Reviews</h2>
+      <div id="room-reviews"></div>
+      <form id="reviewForm" style="display:none;">
+        <h3>Add Your Review</h3>
+        <input type="number" id="reviewRating" min="1" max="5" placeholder="Rating (1-5)" required />
+        <textarea id="reviewComment" placeholder="Comment" required></textarea>
+        <button type="submit">Submit Review</button>
+        <div class="form-message" id="review-message"></div>
+      </form>
+    </section>
+    <section id="booking-section">
+      <button id="book-room-btn" class="btn">Book This Room</button>
+    </section>
+    <section id="payment-section" style="display:none;">
+      <h2>Payment</h2>
+      <form id="paymentForm">
+        <input type="text" id="cardNumber" placeholder="Card Number" required />
+        <input type="text" id="expiry" placeholder="MM/YY" required />
+        <input type="text" id="cvv" placeholder="CVV" required />
+        <button type="submit">Pay Now</button>
+        <div class="form-message" id="payment-message"></div>
+      </form>
+    </section>
+  </main>
+  <script src="room.js"></script>
+</body>
+</html>

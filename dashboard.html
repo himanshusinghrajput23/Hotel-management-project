@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>User Dashboard | Rayal Park</title>
+</head>
+<body>
+  <nav>
+    <div class="nav__bar">
+      <div class="logo">
+        <a href="index.html"><img src="images/logo.png" alt="logo" /></a>
+      </div>
+      <ul class="nav__links" id="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="dashboard.html">Dashboard</a></li>
+      </ul>
+      <div id="profile-dropdown" class="profile-dropdown" style="display:none;">
+        <span id="profile-name"></span>
+        <button id="logout-btn">Logout</button>
+      </div>
+    </div>
+  </nav>
+  <main class="dashboard-container">
+    <section class="profile-section">
+      <h2>My Profile</h2>
+      <div id="user-profile"></div>
+    </section>
+    <section class="bookings-section">
+      <h2>My Bookings</h2>
+      <div id="user-bookings"></div>
+    </section>
+    <section class="reviews-section">
+      <h2>My Reviews</h2>
+      <div id="user-reviews"></div>
+    </section>
+  </main>
+  <script src="dashboard.js"></script>
+</body>
+</html>

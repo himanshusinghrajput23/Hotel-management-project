@@ -1,0 +1,1586 @@
+[
+  {
+    "id": 1,
+    "name": "Skyline Premium Room",
+    "price": 3004,
+    "image": "images/roomss1.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sneha",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Ishita",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Serenity Standard Room",
+    "price": 4306,
+    "image": "images/roomss2.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sana",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Manoj",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amber Woods Room",
+    "price": 7966,
+    "image": "images/roomss3.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Divya",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Neeraj",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Palm Grove Executive",
+    "price": 8262,
+    "image": "images/roomss4.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Karan",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Ishita",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Comfort Stay Executive",
+    "price": 8688,
+    "image": "images/roomss5.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Priya",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Manoj",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Golden Horizon Room",
+    "price": 6500,
+    "image": "images/roomss6.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Karan",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Ravi",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Elite Comfort Studio",
+    "price": 6177,
+    "image": "images/roomss7.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Ritu",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Blue Lagoon Suite",
+    "price": 8559,
+    "image": "images/roomss8.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sameer",
+        "rating": 3,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Manoj",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Golden Horizon Room",
+    "price": 5891,
+    "image": "images/roomss9.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ishita",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Rakesh",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Skyline Premium Room",
+    "price": 8749,
+    "image": "images/roomss10.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ravi",
+        "rating": 3,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Rakesh",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Serenity Standard Room",
+    "price": 8377,
+    "image": "images/roomss1.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Meera",
+        "rating": 4,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Amit",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Urban Bliss Deluxe",
+    "price": 4815,
+    "image": "images/roomss2.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Manoj",
+        "rating": 5,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Karan",
+        "rating": 3,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Silver Leaf Room",
+    "price": 3060,
+    "image": "images/roomss3.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sana",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Manoj",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Heritage Classic Suite",
+    "price": 5927,
+    "image": "images/roomss4.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Arjun",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Manoj",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Urban Bliss Deluxe",
+    "price": 8045,
+    "image": "images/roomss5.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ishita",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Manoj",
+        "rating": 3,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Tranquil Nest Double Room",
+    "price": 7479,
+    "image": "images/roomss6.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Geeta",
+        "rating": 4,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Rakesh",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Silver Leaf Room",
+    "price": 7393,
+    "image": "images/roomss7.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Arjun",
+        "rating": 3,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Rohit",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Skyline Premium Room",
+    "price": 6271,
+    "image": "images/roomss8.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Kolkata",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Priya",
+        "rating": 5,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Manoj",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Golden Horizon Room",
+    "price": 6926,
+    "image": "images/roomss9.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Anjali",
+        "rating": 5,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Palm Grove Executive",
+    "price": 4401,
+    "image": "images/roomss10.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Karan",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Silver Leaf Room",
+    "price": 4940,
+    "image": "images/roomss1.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Naina",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Ishita",
+        "rating": 3,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Heritage Classic Suite",
+    "price": 5864,
+    "image": "images/roomss2.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Sneha",
+        "rating": 4,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Blue Lagoon Suite",
+    "price": 5949,
+    "image": "images/roomss3.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ishita",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Karan",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Sunrise View Room",
+    "price": 6834,
+    "image": "images/roomss4.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Neeraj",
+        "rating": 5,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Ritu",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Silver Leaf Room",
+    "price": 4451,
+    "image": "images/roomss5.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ishita",
+        "rating": 3,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Priya",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Elite Comfort Studio",
+    "price": 5763,
+    "image": "images/roomss6.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Naina",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Priya",
+        "rating": 4,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sunrise View Room",
+    "price": 4877,
+    "image": "images/roomss7.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Meera",
+        "rating": 5,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Tarun",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Blue Lagoon Suite",
+    "price": 3085,
+    "image": "images/roomss8.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sana",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Neeraj",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Skyline Premium Room",
+    "price": 6774,
+    "image": "images/roomss9.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sameer",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Manoj",
+        "rating": 3,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Palm Grove Executive",
+    "price": 5296,
+    "image": "images/roomss10.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Priya",
+        "rating": 3,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Priya",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Silver Leaf Room",
+    "price": 6692,
+    "image": "images/roomss1.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sneha",
+        "rating": 5,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Amit",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Heritage Classic Suite",
+    "price": 8273,
+    "image": "images/roomss2.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Vikram",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Amit",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Urban Bliss Deluxe",
+    "price": 8491,
+    "image": "images/roomss3.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rakesh",
+        "rating": 3,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Anjali",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Tranquil Nest Double Room",
+    "price": 8183,
+    "image": "images/roomss4.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ritu",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Ritu",
+        "rating": 3,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Golden Horizon Room",
+    "price": 3449,
+    "image": "images/roomss5.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Vikram",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Sameer",
+        "rating": 4,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Elite Comfort Studio",
+    "price": 6846,
+    "image": "images/roomss6.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Mumbai",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Priya",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Anjali",
+        "rating": 4,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Comfort Stay Executive",
+    "price": 5967,
+    "image": "images/roomss7.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ritu",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Sana",
+        "rating": 3,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Silver Leaf Room",
+    "price": 8521,
+    "image": "images/roomss8.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sana",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Sana",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Silver Leaf Room",
+    "price": 7476,
+    "image": "images/roomss9.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sneha",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Manoj",
+        "rating": 3,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Urban Bliss Deluxe",
+    "price": 8421,
+    "image": "images/roomss10.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Tarun",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Rohit",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Palm Grove Executive",
+    "price": 6438,
+    "image": "images/roomss1.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Neeraj",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Sana",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "The Royal Suite",
+    "price": 4558,
+    "image": "images/roomss2.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Naina",
+        "rating": 5,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Neeraj",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Tranquil Nest Double Room",
+    "price": 5040,
+    "image": "images/roomss3.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Tarun",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Sana",
+        "rating": 5,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Cozy Corner Budget Room",
+    "price": 3978,
+    "image": "images/roomss4.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Geeta",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Arjun",
+        "rating": 4,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Heritage Classic Suite",
+    "price": 6296,
+    "image": "images/roomss5.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Anjali",
+        "rating": 3,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Neeraj",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Blue Lagoon Suite",
+    "price": 5368,
+    "image": "images/roomss6.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sneha",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Ravi",
+        "rating": 3,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Comfort Stay Executive",
+    "price": 6537,
+    "image": "images/roomss7.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Arjun",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Sana",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Blue Lagoon Suite",
+    "price": 3010,
+    "image": "images/roomss8.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Meera",
+        "rating": 4,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Deepa",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Tranquil Nest Double Room",
+    "price": 3514,
+    "image": "images/roomss9.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sameer",
+        "rating": 4,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Sameer",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Cozy Corner Budget Room",
+    "price": 4528,
+    "image": "images/roomss10.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Anjali",
+        "rating": 3,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Ravi",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Tranquil Nest Double Room",
+    "price": 6556,
+    "image": "images/roomss1.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Naina",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Amit",
+        "rating": 3,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Cozy Corner Budget Room",
+    "price": 7073,
+    "image": "images/roomss2.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sameer",
+        "rating": 4,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Sneha",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Tranquil Nest Double Room",
+    "price": 6517,
+    "image": "images/roomss3.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Divya",
+        "rating": 4,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Rohit",
+        "rating": 4,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Blue Lagoon Suite",
+    "price": 4569,
+    "image": "images/roomss4.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Noida",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Geeta",
+        "rating": 5,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Sneha",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golden Horizon Room",
+    "price": 7790,
+    "image": "images/roomss5.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sana",
+        "rating": 3,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Tarun",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Cozy Corner Budget Room",
+    "price": 6471,
+    "image": "images/roomss6.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Ritu",
+        "rating": 4,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Skyline Premium Room",
+    "price": 3292,
+    "image": "images/roomss7.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ritu",
+        "rating": 4,
+        "comment": "Excellent service."
+      },
+      {
+        "user": "Arjun",
+        "rating": 4,
+        "comment": "Loved the decor!"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Heritage Classic Suite",
+    "price": 7361,
+    "image": "images/roomss8.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sameer",
+        "rating": 5,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Priya",
+        "rating": 5,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Elite Comfort Studio",
+    "price": 3880,
+    "image": "images/roomss9.jpg",
+    "description": "Compact and cozy room ideal for solo or couple stays with modern amenities.",
+    "type": "single",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      },
+      {
+        "user": "Meera",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Elite Comfort Studio",
+    "price": 4692,
+    "image": "images/roomss10.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rohit",
+        "rating": 3,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Ritu",
+        "rating": 3,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Heritage Classic Suite",
+    "price": 7767,
+    "image": "images/roomss1.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Rakesh",
+        "rating": 3,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Tarun",
+        "rating": 4,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Serenity Standard Room",
+    "price": 7949,
+    "image": "images/roomss2.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ravi",
+        "rating": 3,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Meera",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Comfort Stay Executive",
+    "price": 4167,
+    "image": "images/roomss3.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Divya",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Geeta",
+        "rating": 5,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Golden Horizon Room",
+    "price": 3859,
+    "image": "images/roomss4.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Priya",
+        "rating": 4,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Naina",
+        "rating": 3,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Sunrise View Room",
+    "price": 4175,
+    "image": "images/roomss5.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ritu",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Meera",
+        "rating": 3,
+        "comment": "Could improve the lighting."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Serenity Standard Room",
+    "price": 5849,
+    "image": "images/roomss6.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Sneha",
+        "rating": 4,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Arjun",
+        "rating": 3,
+        "comment": "Very clean and comfortable."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Palm Grove Executive",
+    "price": 6591,
+    "image": "images/roomss7.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Geeta",
+        "rating": 3,
+        "comment": "Could improve the lighting."
+      },
+      {
+        "user": "Sameer",
+        "rating": 4,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Serenity Standard Room",
+    "price": 6957,
+    "image": "images/roomss8.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ishita",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Deepa",
+        "rating": 5,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Golden Horizon Room",
+    "price": 6207,
+    "image": "images/roomss9.jpg",
+    "description": "Spacious room for two with elegant furnishings and all essentials.",
+    "type": "double",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Amit",
+        "rating": 3,
+        "comment": "Perfect stay!"
+      },
+      {
+        "user": "Amit",
+        "rating": 3,
+        "comment": "Excellent service."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Silver Leaf Room",
+    "price": 6097,
+    "image": "images/roomss10.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Ritu",
+        "rating": 4,
+        "comment": "Very clean and comfortable."
+      },
+      {
+        "user": "Tarun",
+        "rating": 5,
+        "comment": "Perfect stay!"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Blue Lagoon Suite",
+    "price": 4677,
+    "image": "images/roomss1.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Neeraj",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Amit",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Silver Leaf Room",
+    "price": 7676,
+    "image": "images/roomss2.jpg",
+    "description": "Luxurious suite with extended space, lounge area, and high-end features.",
+    "type": "suite",
+    "location": "Delhi",
+    "guests": 2,
+    "reviews": [
+      {
+        "user": "Deepa",
+        "rating": 5,
+        "comment": "Loved the decor!"
+      },
+      {
+        "user": "Tarun",
+        "rating": 4,
+        "comment": "Amazing view and experience."
+      }
+    ]
+  }
+]
